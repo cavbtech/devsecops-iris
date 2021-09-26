@@ -1,4 +1,4 @@
 ##Token to connect github
-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
+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
 ##Code coverage variables
 01d03960-130e-41a5-b6d1-78236580c164
