@@ -1,2 +1,4 @@
 ##Token to connect github
 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
+##Code coverage variables
+01d03960-130e-41a5-b6d1-78236580c164
