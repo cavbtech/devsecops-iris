@@ -1,3 +1,4 @@
+
 from fastapi.testclient import TestClient
 from main import app
 
@@ -7,6 +8,7 @@ def test_ping():
         response = client.get("/ping")
         # asserting the correct response is received
         assert response.status_code == 200
+        print(f"response={response}")
         assert response.json() == {"ping": "pong"}
 
 
